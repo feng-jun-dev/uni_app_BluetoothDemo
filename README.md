@@ -1,0 +1,2 @@
+# uni_app_BluetoothDemo
+基于uni_app开发BLE蓝牙的demo
